@@ -1,142 +1,310 @@
 {
-  "ALAPPUZHA": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  "ALAPPUZHA": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "ERNAKULAM": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "ERNAKULAM": [
+    {
+      "Als,Kottakkal": {
+        "phoneNo1": "N/A",
+        "phoneN02": "929892XXXX",
+        "telephoneNo1": "N/A",
+        "telephoneNo2": "04857567943",
+        "medicines": "paracetamol,dola",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "IDUKKI": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "IDUKKI": [
+    {
+      "MIMS,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Baby,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "KANNUR": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "KANNUR": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "KASARGOD": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "KASARGOD": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "KOLLAM": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "KOLLAM": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "KOTTAYAM": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "KOTTAYAM": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "KOZHIKKODE": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "KOZHIKKODE": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "MALAPPURAM": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "MALAPPURAM": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "PALAKKAD": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "PALAKKAD": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "PATHANAMTHITTA": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "PATHANAMTHITTA": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "THIRUVANANTHAPURAM": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "THIRUVANANTHAPURAM": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "THRISSUR": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "THRISSUR": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  },
-  "WAYANAD": {
-    "Alshifa,Kottakkal": {
-      "phoneNo1": "929292XXXX",
-      "phoneN02": "N/A",
-      "telephoneNo1": "04852567943",
-      "telephoneNo2": "N/A",
-      "medicines": "paracetamol",
-      "outofStock": false
+  ],
+  "WAYANAD": [
+    {
+      "Alshifa,Kottakkal": {
+        "phoneNo1": "929292XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04852567943",
+        "telephoneNo2": "N/A",
+        "medicines": "paracetamol",
+        "outofStock": false
+      }
+    },
+    {
+      "Almas,Kottakkal": {
+        "phoneNo1": "929452XXXX",
+        "phoneN02": "N/A",
+        "telephoneNo1": "04857567943",
+        "telephoneNo2": "N/A",
+        "medicines": "ampheterin,glucose",
+        "outofStock": false
+      }
     }
-  }
+  ]
 }
